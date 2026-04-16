@@ -12,7 +12,7 @@
 
 ## 一、项目简介
 
-适合从入门到深度学习 Spring Boot 的项目，当前已集成以下 demo。
+适合从入门到深度学习 Spring Boot 的项目，由简到深。
 
 
 ## 二、开发环境
@@ -25,7 +25,7 @@
 
 ## 三、项目结构
 
-
+1. 
 
 
 ## 四、项目趋势
@@ -37,4 +37,4 @@
 
 关注公众号「村雨遥」，进群一起交流。
 
-<img src="https://github.com/cunyu1943/cunyu1943/blob/main/imgs/wechatpublic.jpg?raw=true" width="40%"></img>
+<img src="https://github.com/cunyu1943/cunyu1943/blob/main/imgs/wechatpublic.jpg?raw=true" width="20%"></img>

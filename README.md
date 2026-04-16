@@ -25,7 +25,7 @@
 
 ## 三、项目结构
 
-1. [demo-hello](https://github.com/cunyu1943/spring-boot-demos/demo-hello)：Spring Boot 版 Hello World~
+1. [demo-hello](https://github.com/cunyu1943/spring-boot-demos/tree/main/demo-hello)：Spring Boot 版 Hello World~
 
 
 ## 四、项目趋势

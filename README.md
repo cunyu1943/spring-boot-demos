@@ -26,6 +26,8 @@
 ## 三、项目结构
 
 1. [demo-hello](https://github.com/cunyu1943/spring-boot-demos/tree/main/demo-hello)：Spring Boot 版 Hello World~
+2. [demo-multi-environment](https://github.com/cunyu1943/spring-boot-demos/tree/main/demo-multi-environment)：Spring Boot 多环境配置文件
+
 
 
 ## 四、项目趋势

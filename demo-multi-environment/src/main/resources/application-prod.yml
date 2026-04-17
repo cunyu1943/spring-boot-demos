@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: demo-multi-environment-prod
+
+server:
+  port: 8083

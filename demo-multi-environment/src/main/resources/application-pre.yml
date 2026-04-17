@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: demo-multi-environment-pre
+
+server:
+  port: 8082

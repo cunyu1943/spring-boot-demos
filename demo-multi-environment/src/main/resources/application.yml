@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: demo-multi-environment
+
+  profiles:
+    active: pre
+
+server:
+  port: 8080
